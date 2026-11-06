@@ -1,0 +1,7 @@
+Model,ROC_AUC
+decision_tree,0.9474304702914353
+gradient_boosting,0.9905975309546935
+k-nearest_neighbors,0.976480846878875
+logistic_regression,0.9771298722718027
+random_forest,0.9942916307793802
+svm,0.9859841057499068
